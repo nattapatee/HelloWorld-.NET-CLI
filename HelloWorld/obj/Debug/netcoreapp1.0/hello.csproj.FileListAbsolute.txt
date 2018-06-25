@@ -1,0 +1,11 @@
+/Users/bcircle/Desktop/bin/Debug/netcoreapp1.0/hello.deps.json
+/Users/bcircle/Desktop/bin/Debug/netcoreapp1.0/hello.runtimeconfig.json
+/Users/bcircle/Desktop/bin/Debug/netcoreapp1.0/hello.runtimeconfig.dev.json
+/Users/bcircle/Desktop/bin/Debug/netcoreapp1.0/hello.dll
+/Users/bcircle/Desktop/bin/Debug/netcoreapp1.0/hello.pdb
+/Users/bcircle/Desktop/obj/Debug/netcoreapp1.0/hello.csprojAssemblyReference.cache
+/Users/bcircle/Desktop/obj/Debug/netcoreapp1.0/hello.csproj.CoreCompileInputs.cache
+/Users/bcircle/Desktop/obj/Debug/netcoreapp1.0/hello.AssemblyInfoInputs.cache
+/Users/bcircle/Desktop/obj/Debug/netcoreapp1.0/hello.AssemblyInfo.cs
+/Users/bcircle/Desktop/obj/Debug/netcoreapp1.0/hello.dll
+/Users/bcircle/Desktop/obj/Debug/netcoreapp1.0/hello.pdb
